@@ -6,7 +6,7 @@ excerpt: 'This article provides an extensive overview of the literature related 
 date: 2018-09-15
 venue: 'Computational Linguistics'
 paperurl: 'https://www.mitpressjournals.org/doi/pdf/10.1162/coli_a_00327'
-citation: 'Kolhatk, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Varada Kolhatkar, Adam Roussel, Stefanie Dipper, and Heike Zinsmeister. 2018. Anaphora with non-nominal antecedents in computational linguistics: A survey. Computational Linguistics, 44(3).'
 ---
 This article provides an extensive overview of the literature related to the phenomenon of non-nominal-antecedent anaphora (also known as abstract anaphora or discourse deixis), a type of anaphora in which an anaphor like “that” refers to an antecedent (marked in boldface) that is syntactically non-nominal, such as the first sentence in “It’s way too hot here. That’s why I’m moving to Alaska.” Annotating and automatically resolving these cases of anaphora is interesting in its own right because of the complexities involved in identifying non-nominal antecedents, which typically represent abstract objects such as events, facts, and propositions. There is also practical value in the resolution of non-nominal-antecedent anaphora, as this would help computational systems in machine translation, summarization, and question answering, as well as, conceivably, any other task dependent on some measure of text understanding.
 
