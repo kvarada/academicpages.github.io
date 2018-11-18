@@ -1,5 +1,5 @@
 ---
-title: "Using New York Times Picks to Identify Constructive Comments."
+title: "Constructive Language in News Comments"
 collection: publications
 permalink: /publication/2017-07-01-paper-title-number-7
 excerpt: 'This paper is about identifying constructive comments in news comments.'
