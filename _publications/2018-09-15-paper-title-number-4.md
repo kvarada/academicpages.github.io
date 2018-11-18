@@ -2,9 +2,9 @@
 title: "Anaphora With Non-nominal Antecedents in Computational Linguistics: a Survey"
 collection: publications
 permalink: /publication/2018-09-15-paper-title-number-4
-excerpt: 'This article provides an extensive overview of the literature related to the phenomenon of `non-nominal-antecedent anaphora` (also known as `abstract anaphora` or `discourse deixis`).
+excerpt: 'This article provides an extensive overview of the literature related to the phenomenon of non-nominal-antecedent anaphora (also known as abstract anaphora or discourse deixis).'
 date: 2018-09-15
-venue: 'Computational Linguistics'
+venue: 'Computational Linguistics Journal'
 paperurl: 'https://www.mitpressjournals.org/doi/pdf/10.1162/coli_a_00327'
 citation: 'Varada Kolhatkar, Adam Roussel, Stefanie Dipper, and Heike Zinsmeister. 2018. Anaphora with non-nominal antecedents in computational linguistics: A survey. Computational Linguistics, 44(3).'
 ---
