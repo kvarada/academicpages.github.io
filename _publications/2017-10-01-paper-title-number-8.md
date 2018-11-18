@@ -1,5 +1,5 @@
 ---
-title: "Using New York Times Picks to Identify Constructive Comments."
+title: "Using New York Times Picks to Identify Constructive Comments"
 collection: publications
 permalink: /publication/2017-10-01-paper-title-number-8
 excerpt: 'In this paper we use New York Times Picks as training examples for constructiveness and build computational models to identify constructive comments in news comments.'

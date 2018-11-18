@@ -1,5 +1,5 @@
 ---
-title: "Annotating anaphoric shell nouns with their antecedents."
+title: "Annotating anaphoric shell nouns with their antecedents"
 collection: publications
 permalink: /publication/2013-08-01-paper-title-number-3
 excerpt: 'This paper is about annotating complex anaphoric expressions such as _this issue_ or _this fact_.'

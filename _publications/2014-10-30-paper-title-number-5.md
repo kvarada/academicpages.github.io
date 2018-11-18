@@ -1,5 +1,5 @@
 ---
-title: "Resolving shell nouns."
+title: "Resolving shell nouns"
 collection: publications
 permalink: /publication/2014-10-30-paper-title-number-4
 excerpt: ''

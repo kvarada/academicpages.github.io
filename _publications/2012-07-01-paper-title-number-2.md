@@ -1,5 +1,5 @@
 ---
-title: "Resolving _this-issue_ anaphora. "
+title: "Resolving _this-issue_ anaphora"
 collection: publications
 permalink: /publication/2010-07-01-paper-title-number-2
 excerpt: 'This paper is about resolving complex anaphora in the form of demonstratives followed by a noun phrase.'

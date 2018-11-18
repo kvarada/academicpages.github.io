@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2017-07-01-paper-title-number-7
 excerpt: 'This paper is about identifying constructive comments in news comments.'
 date: 2017-07-01
-venue: 'Proceedings of the First Workshop on Abusive Language Online.'
+venue: 'Proceedings of the First Workshop on Abusive Language Online'
 paperurl: 'http://aclweb.org/anthology/W17-3002'
 citation: 'Constructive Language in News Comments. In Proceedings of the First Workshop on Abusive Language Online. Association for Computational Linguistics, Vancouver, BC, Canada, pages 11-17.'
 ---

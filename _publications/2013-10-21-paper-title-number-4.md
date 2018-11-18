@@ -1,5 +1,5 @@
 ---
-title: "Interpreting anaphoric shell nouns using antecedents of cataphoric shell nouns as training data."
+title: "Interpreting anaphoric shell nouns using antecedents of cataphoric shell nouns as training data"
 collection: publications
 permalink: /publication/2013-10-21-paper-title-number-4
 excerpt: 'This paper is about interpreting hard cases of anaphoric shell nouns (e.g., _this issue_) using relatively easy cases of cataphora-like shell nouns (e.g., _the issue whether X_).'

@@ -1,5 +1,5 @@
 ---
-title: "A Unified Framework for Evaluating the Risk of Re-Identification of Text de-Identification Tools."
+title: "A Unified Framework for Evaluating the Risk of Re-Identification of Text de-Identification Tools"
 collection: publications
 permalink: /publication/2016-10-30-paper-title-number-6
 excerpt: ''
