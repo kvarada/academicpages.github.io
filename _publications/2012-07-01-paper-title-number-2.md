@@ -7,18 +7,6 @@ date: 2012-07-01
 venue: 'In Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning'
 paperurl: 'http://www.aclweb.org/anthology/D12-1115'
 citation: 'Varada Kolhatkar and Graeme Hirst. (2009). Resolving _this-issue_ anaphora. In Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning. pages 1255 -- 1265, Jeju Island, Korea, July. Association for Computational Linguistics.'
-
-@InProceedings{kolhatkar-hirst:2012:EMNLP-CoNLL,
-  author    = {Kolhatkar, Varada  and  Hirst, Graeme},
-  title     = {Resolving â€œThis-issueâ€ Anaphora},
-  booktitle = {Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning},
-  month     = {July},
-  year      = {2012},
-  address   = {Jeju Island, Korea},
-  publisher = {Association for Computational Linguistics},
-  pages     = {1255--1265},
-  url       = {http://www.aclweb.org/anthology/D12-1115}
-}
 ---
 
 
