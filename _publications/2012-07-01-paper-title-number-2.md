@@ -2,11 +2,11 @@
 title: "Resolving _this-issue_ anaphora. "
 collection: publications
 permalink: /publication/2010-07-01-paper-title-number-2
-excerpt: 'This paper is about resolving complex anaphora in the form of demonstratives following by a noun phrase.'
+excerpt: 'This paper is about resolving complex anaphora in the form of demonstratives followed by a noun phrase.'
 date: 2012-07-01
 venue: 'In Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning'
 paperurl: 'http://www.aclweb.org/anthology/D12-1115'
-citation: 'Varada Kolhatkar and Graeme Hirst. (2009). Resolving _this-issue_ anaphora. In Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning. pages 1255 -- 1265, Jeju Island, Korea, July. Association for Computational Linguistics.'
+citation: 'Varada Kolhatkar and Graeme Hirst. (2009). Resolving "this-issue" anaphora. In Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning. pages 1255 -- 1265, Jeju Island, Korea, July. Association for Computational Linguistics.'
 ---
 
 
