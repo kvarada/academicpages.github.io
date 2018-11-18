@@ -17,6 +17,10 @@ Education
   * Description: Developed computational methods for interpreting shell nouns, such as _fact_, _idea_, and _issue_, which refer to complex non-nominal entities in text.
   * Committee: Graeme Hirst (advisor), Gerald Penn (chair), Suzanne Stevenson, Massimo Poesio (external examiner)
 * M.Sc. in Natural Language Processing, University of Minnesota Duluth, 2009
+  * GPA: 3.95/4.0
+  * Dissertation: An Extended Analysis of a Method of All-Words Sense Disambiguation
+  * Description: Fine-tuned and experimented with a computational method which identifies senses (meaning) of all words in context.  
+  * Committee: Ted Pedersen (advisor), Hudson Turner, Joseph Gallian
 * M.Sc. in Computer Science, University of Pune, 2005
 
 
@@ -75,8 +79,8 @@ Publications
 
 Theses
 ======
-* V. Kolhatkar. Resolving Shell Nouns. Doctoral thesis, University of Toronto, November 2014.
-* V. Kolhatkar. An Extended Analysis of a Method of All Words Sense Disambiguation. Master’s thesis, University of Minnesota, Duluth, August 2009.
+* V. Kolhatkar. [Resolving Shell Nouns](http://www.cs.toronto.edu/~varada/VaradaHomePage/Home_files/Kolhatkar_Varada_201503_PhD_thesis.pdf). Doctoral thesis, University of Toronto, November 2014.
+* V. Kolhatkar. [An Extended Analysis of a Method of All Words Sense Disambiguation](http://www.cs.toronto.edu/~varada/VaradaHomePage/Research_files/Kolhatkar-thesis.pdf). Master’s thesis, University of Minnesota, Duluth, August 2009.
 
 Talks
 ======
