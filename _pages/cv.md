@@ -12,6 +12,10 @@ redirect_from:
 Education
 ======
 * Ph.D. in Computational Linguistics, University of Toronto, 2015
+  * GPA: 4.0/4.0
+  * Dissertation: Resolving Shell Nouns
+  * Description: Developed computational methods for interpreting shell nouns, such as _fact_, _idea_, and _issue_, which refer to complex non-nominal entities in text.
+  * Committee: Graeme Hirst (advisor), Gerald Penn (chair), Suzanne Stevenson, Massimo Poesio (external examiner)
 * M.Sc. in Natural Language Processing, University of Minnesota Duluth, 2009
 * M.Sc. in Computer Science, University of Pune, 2005
 
@@ -24,7 +28,7 @@ Work experience
   constructiveness and toxicity in online communication so that people stay engaged in constructive discussion online.
   * Supervisor: Maite Taboada
 
-* April 2015 -- August 2016 2015: Mitacs Postdoctoral Fellow
+* April 2015 -- August 2016: Mitacs Postdoctoral Fellow
   * Privacy Analytics and University of Ottawa, Canada
   * Carried out research on anonymization of unstructured data and developed risk-based methods to anonymize clinical study reports to help pharmaceutical companies comply with European Medical Agencies policy 007 of clinical data transparency.
   * Supervisor: Khaled El Emam and Diana Inkpen
@@ -46,20 +50,33 @@ Research experience
   * The Johns Hopkins University, Baltimore, USA
   * Invited participant at JHU Summer School and Workshop held by the Center of Language and Speech Processing at Johns Hopkins University in the vocal aging group.
 
+Honours and fellowships
+======  
+* Invitation to attend MIT Rising Stars in EECS 2015
+* Mitacs Accelerate Scolarship October 2015 to September 2017
+* EMNLP 2014 Google scholarship
+* Doctoral Completion Award for academic year 2013-2014
+* Monica Ryckman Bursary for academic year 2013-2014
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages: Python, C, C++
+* Human Languages: Marathi (native), English and Hindi (fluent), Sanskrit (basic knowledge)
+
+Patents
+======
+M. Scaiano, G. Middleton, V. Kolhatkar and K. El Emam. 2017. System and method to reduce a risk of re-identification of text de-identification tools. U.S. Patent US20170177907.
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Theses
+======
+* V. Kolhatkar. Resolving Shell Nouns. Doctoral thesis, University of Toronto, November 2014.
+* V. Kolhatkar. An Extended Analysis of a Method of All Words Sense Disambiguation. Master’s thesis, University of Minnesota, Duluth, August 2009.
 
 Talks
 ======
