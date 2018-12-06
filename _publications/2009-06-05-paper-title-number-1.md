@@ -6,8 +6,7 @@ excerpt: 'This paper is about a method to identify meaning of words in a given c
 date: 2009-06-05
 venue: 'The Annual Conference of the North American chapter of the association for computational linguistics'
 paperurl: 'http://www.aclweb.org/anthology/N09-5005'
-citation:
-'Pedersen, Ted and Kolhatkar, Varada: WordNet:: SenseRelate:: AllWords - A Broad Coverage Word Sense Tagger that Maximizes Semantic Relatedness. In Proceedings of Human Language Technologies: The 2009 Annual Conference of the North American Chapter of the Association for Computational Linguistics, Companion Volume: Demonstration Session, pp. 17–20 (2009)'
+citation: 'Pedersen, Ted and Kolhatkar, Varada: WordNet:: SenseRelate:: AllWords - A Broad Coverage Word Sense Tagger that Maximizes Semantic Relatedness. In Proceedings of Human Language Technologies: The 2009 Annual Conference of the North American Chapter of the Association for Computational Linguistics, Companion Volume: Demonstration Session, pp. 17–20 (2009)'
 ---
 
 <a href='http://www.aclweb.org/anthology/N09-5005'>Download paper here</a>
