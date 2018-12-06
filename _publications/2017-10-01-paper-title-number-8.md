@@ -11,8 +11,4 @@ citation: 'Varada Kolhatkar and Maite Taboada. 2017. Using New York Times Picks 
 
 <a href='https://aclanthology.info/papers/W17-4218/w17-4218'>Download paper here</a>
 
-We examine the extent to which we are able to automatically identify constructive online comments. We build several classifiers
-using New York Times Picks as positive examples and non-constructive thread comments from the Yahoo News Annotated
-Comments Corpus as negative examples of constructive online comments. We evaluate these classifiers on a crowd-annotated
-corpus containing 1,121 comments. Our best classifier achieves a top
-F1 score of 0.84.
+We examine the extent to which we are able to automatically identify constructive online comments. We build several classifiersusing New York Times Picks as positive examples and non-constructive thread comments from the Yahoo News AnnotatedComments Corpus as negative examples of constructive online comments. We evaluate these classifiers on a crowd-annotatedcorpus containing 1,121 comments. Our best classifier achieves a top F1 score of 0.84.
