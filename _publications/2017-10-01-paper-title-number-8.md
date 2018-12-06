@@ -5,7 +5,7 @@ permalink: /publication/2017-10-01-paper-title-number-8
 excerpt: 'In this paper we use New York Times Picks as training examples for constructiveness and build computational models to identify constructive comments in news comments.'
 date: 2017-10-01
 venue: 'Proceedings of NLP meets journalism workshop'
-paperurl:'https://aclanthology.info/papers/W17-4218/w17-4218'
+paperurl: 'https://aclanthology.info/papers/W17-4218/w17-4218'
 citation: 'Varada Kolhatkar and Maite Taboada. 2017. Using New York Times Picks to Identify Constructive Comments. In Proceedings of NLP meets journalism workshop, Association for Computational Linguistics, Copenhagen, Denmark, pages 100-105.'
 ---
 
