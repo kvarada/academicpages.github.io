@@ -2,7 +2,7 @@
 title: "DSCI 571"
 collection: teaching
 type: "Master of Data Science Course"
-permalink: /teaching/2018-fall-teaching-1
+permalink: /teaching/2019-fall-teaching-2
 venue: "University of British Columbia"
 date: 19-11-10
 location: "Vancouver, Canada"
