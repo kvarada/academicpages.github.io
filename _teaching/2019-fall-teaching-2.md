@@ -1,7 +1,7 @@
 ---
 title: "DSCI 571: Supervised Machine Learning I"
 collection: teaching
-type: "Master of Data Science Course"
+type: "Master of Data Science"
 permalink: /teaching/2019-fall-teaching-2
 venue: "University of British Columbia"
 date: 19-11-10
