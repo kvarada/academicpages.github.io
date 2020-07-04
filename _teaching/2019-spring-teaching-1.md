@@ -4,7 +4,7 @@ collection: teaching
 type: "Master of Data Science Course"
 permalink: /teaching/2019-spring-teaching-1
 venue: "University of British Columbia"
-date: 01-03-20
+date: 10-11-18
 location: "Vancouver, Canada"
 ---
 
