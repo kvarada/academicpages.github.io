@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "DSCI 571"
 collection: teaching
-type: "Graduate course"
+type: "Master of Data Science Course"
 permalink: /teaching/2019-spring-teaching-1
 venue: "University of British Columbia"
-date: 2019-03-20
+date: 01-03-20
 location: "Vancouver, Canada"
 ---
 
