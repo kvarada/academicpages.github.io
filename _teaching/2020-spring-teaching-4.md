@@ -1,5 +1,5 @@
 ---
-title: "DSCI 573"
+title: "DSCI 573: Feature and Model Selection"
 collection: teaching
 type: "Master of Data Science course"
 permalink: /teaching/2020-spring-teaching-4
