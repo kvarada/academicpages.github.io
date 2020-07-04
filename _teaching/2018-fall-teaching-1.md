@@ -9,11 +9,15 @@ location: "Vancouver, Canada"
 ---
 Advanced machine learning methods in the context of natural language processing (NLP) applications. Word embeddings, Markov chains, hidden Markov models, topic modeling, recurrent neural networks.
 
-Heading 1
+## Lecture Schedule
 =====
-
-Heading 2
-======
-
-Heading 3
-======
+| Lecture  | Topic  | Lecture notes | Resources and optional readings |
+|-------|------------|-----------|-----------|
+|   1   | Word vectors, word embeddings | [lecture1](lectures/lecture1.ipynb) | Word2Vec papers: <li>[Distributed representations of words and phrases and their compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)</li> <li>[Efficient estimation of word representations in vector space](https://arxiv.org/pdf/1301.3781.pdf)</li> <li>[word2vec Explained](https://arxiv.org/pdf/1402.3722.pdf)</li>|
+|   2   | Using word embeddings, text preprocessing | [lecture2](lectures/lecture2.ipynb) | Pre-trained embeddings:  <li>[word2vec](https://code.google.com/archive/p/word2vec/)</li> <li>[GloVe](https://nlp.stanford.edu/projects/glove/) </li> <li>[fastText](https://fasttext.cc/docs/en/pretrained-vectors.html)</li>Bias in word embeddings:<li>[Debiasing Word Embeddings](http://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf)</li>|
+|   3   | Ngrams, POS tagging, Markov chains | [lecture3](lectures/lecture3.ipynb) | [Markov chains in action](http://setosa.io/ev/markov-chains/)|
+|   4   | Language models, PageRank| [lecture4](lectures/lecture4.ipynb) | [Dan Jurafsky's videos on PageRank](https://www.youtube.com/playlist?list=PLaZQkZp6WhWzSy3WKExE7656jBxfXJh3I)|
+|   5   | Hidden Markov models  | [lecture5](lectures/lecture5.ipynb) | [Rabiner HMM tutorial](https://www.cs.ubc.ca/~murphyk/Bayes/rabiner.pdf) |
+|   6   | Topic modeling | [lecture6](lectures/lecture6.ipynb) | Dave Blei [video lecture](https://www.youtube.com/watch?v=DDq3OVp9dNA&t=98s), [paper](http://menome.com/wp/wp-content/uploads/2014/12/Blei2011.pdf) |
+|   7   | Recurrent Neural Networks (RNNs) | [lecture7](lectures/lecture7.ipynb) | [The Unreasonable Effectiveness of Recurrent Neural  Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)|
+|   8   | More on RNNs and wrap up |  | [Visual step-by-step explanation of LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)|
