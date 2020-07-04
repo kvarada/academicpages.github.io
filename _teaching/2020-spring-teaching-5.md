@@ -1,5 +1,5 @@
 ---
-title: "DSCI 575"
+title: "DSCI 575: Advanced Machine Learning"
 collection: teaching
 type: "Master of Data Science Course"
 permalink: /teaching/2020-spring-teaching-5
