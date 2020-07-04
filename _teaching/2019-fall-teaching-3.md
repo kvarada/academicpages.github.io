@@ -1,7 +1,7 @@
 ---
 title: "CPSC 322: Introduction to Artificial Intelligence"
 collection: teaching
-type: "Computer Science undergrad course"
+type: "Computer Science"
 permalink: /teaching/2019-fall-teaching-3
 venue: "University of British Columbia"
 date: 19-09-01
