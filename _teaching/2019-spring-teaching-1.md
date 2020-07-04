@@ -10,7 +10,8 @@ location: "Vancouver, Canada"
 Advanced machine learning methods in the context of natural language processing (NLP) applications. Word embeddings, Markov chains, hidden Markov models, topic modeling, recurrent neural networks.
 
 ## Lecture Schedule
-=====
+
+
 | Lecture  | Topic  | Resources and optional readings |
 |-------|------------|-----------|
 |   1   | Word vectors, word embeddings | Word2Vec papers: <li>[Distributed representations of words and phrases and their compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)</li> <li>[Efficient estimation of word representations in vector space](https://arxiv.org/pdf/1301.3781.pdf)</li> <li>[word2vec Explained](https://arxiv.org/pdf/1402.3722.pdf)</li>|
