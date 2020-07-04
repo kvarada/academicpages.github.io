@@ -1,7 +1,7 @@
 ---
 title: "DSCI 573: Feature and Model Selection"
 collection: teaching
-type: "Master of Data Science course"
+type: "Master of Data Science"
 permalink: /teaching/2020-spring-teaching-4
 venue: "University of British Columbia"
 date: 20-01-13
