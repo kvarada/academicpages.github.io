@@ -7,13 +7,8 @@ venue: "University of British Columbia"
 date: 19-09-01
 location: "Vancouver, Canada"
 ---
-[This course](https://github.com/kvarada/CPSC-322_students) provides an introduction to the field of artificial intelligence (AI). The major topics covered include reasoning and representation, search, constraint satisfaction problems, planning, logic, reasoning under uncertainty, and planning under uncertainty.
+This course provides an introduction to the field of artificial intelligence (AI). The major topics covered include reasoning and representation, search, constraint satisfaction problems, planning, logic, reasoning under uncertainty, and planning under uncertainty.
 
-Heading 1
+Course website
 =====
-
-Heading 2
-======
-
-Heading 3
-======
+The course material is [publicly available](https://github.com/kvarada/CPSC-322_students).  
