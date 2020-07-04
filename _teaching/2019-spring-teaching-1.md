@@ -2,7 +2,7 @@
 title: "DSCI 575"
 collection: teaching
 type: "Master of Data Science Course"
-permalink: /teaching/2018-fall-teaching-1
+permalink: /teaching/2019-spring-teaching-1
 venue: "University of British Columbia"
 date: 19-03-10
 location: "Vancouver, Canada"
