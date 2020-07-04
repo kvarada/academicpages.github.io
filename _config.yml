@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Varada Kolhatkar's Webpage"
 title_separator          : "-"
 name                     : &name "Varada Kolhatkar"
-description              : &description "Computation Linguist, Educator, Computer Scientist"
+description              : &description "Educator, Computation Linguist, Computer Scientist"
 url                      : https://kvarada.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kvarada/kvarada.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
