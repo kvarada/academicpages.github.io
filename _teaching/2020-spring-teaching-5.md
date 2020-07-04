@@ -1,7 +1,7 @@
 ---
 title: "DSCI 575: Advanced Machine Learning"
 collection: teaching
-type: "Master of Data Science Course"
+type: "Master of Data Science"
 permalink: /teaching/2020-spring-teaching-5
 venue: "University of British Columbia"
 date: 20-03-10
