@@ -12,12 +12,10 @@ redirect_from:
 Education
 ======
 * Ph.D. in Computational Linguistics, University of Toronto, 2015
-  * GPA: 4.0/4.0
   * Dissertation: Resolving Shell Nouns
   * Description: Developed computational methods for interpreting shell nouns, such as _fact_, _idea_, and _issue_, which refer to complex non-nominal entities in text.
   * Committee: Graeme Hirst (advisor), Gerald Penn (chair), Suzanne Stevenson, Massimo Poesio (external examiner)
 * M.Sc. in Natural Language Processing, University of Minnesota Duluth, 2009
-  * GPA: 3.95/4.0
   * Dissertation: An Extended Analysis of a Method of All-Words Sense Disambiguation
   * Description: Fine-tuned and experimented with a computational method which identifies senses (meaning) of all words in context.  
   * Committee: Ted Pedersen (advisor), Hudson Turner, Joseph Gallian
@@ -26,6 +24,15 @@ Education
 
 Work experience
 ======
+* July 2020 -- current: Assistant Professor of Teaching
+  * University of British Columbia, Canada
+  * Taught courses in the Master of Data Science program 
+
+* October 2018 -- June 2020: Teaching postdoctoral fellow
+  * University of British Columbia, Canada
+  * Department of Computer Science
+  * Taught courses in the Master of Data Science program 
+
 * October 2016 -- September 2018: Postdoctoral fellow
   * Simon Fraser University, Canada
   * Developed computational methods for identifying
@@ -38,7 +45,7 @@ Work experience
   * Supervisor: Khaled El Emam and Diana Inkpen
 
 * January 2005 -- July 2007: Associate Software Engineer
-  * Symatec Corporation, Pune, India
+  * Symantec Corporation, Pune, India
   * Worked as a programmer
 
 Research experience
