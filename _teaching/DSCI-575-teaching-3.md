@@ -1,24 +1,28 @@
 ---
-title: "DSCI 573: Feature and Model Selection"
+title: "DSCI 575: Advanced Machine Learning in the Context of NLP"
 collection: teaching
 type: "Master of Data Science"
-permalink: /teaching/DSCI-573-teaching-1
+permalink: /teaching/DSCI-575-teaching-3
 venue: "University of British Columbia"
 date: 20-11-10
-link: https://github.com/UBC-MDS/DSCI_571_sup-learn-1
+link: https://github.com/UBC-MDS/DSCI_575_adv-mach-learn
 location: "Vancouver, Canada"
 ---
 
-# [DSCI 571: Supervised Learning I](https://github.com/UBC-MDS/DSCI_573_feat-model-select)
+# [DSCI 575: Advanced Machine Learning in the Context of NLP](https://github.com/UBC-MDS/DSCI_575_adv-mach-learn)
 
-This course is about evaluating and selecting features and models. It covers the following topics: evaluation metrics, feature engineering, feature selection, the role of regularization, loss functions, and feature importances.
+Advanced machine learning methods in the context of natural language processing (NLP) applications. Word embeddings, Markov chains, hidden Markov models, topic modeling, recurrent neural networks.
+
 
 ## Course Learning Outcomes    
 
 By the end of the course, students are expected to be able to
+- Explain and use word embeddings for word meaning representation. 
+- Train your own word embedding and use pre-trained word embeddings. 
+- Specify a Markov chain and carry out generation and inference with them. 
+- Explain the general idea of stationary distribution in Markov chains.
+- Explain hidden Markov models and carry out decoding with them. 
+- Explain Latent Dirichlet Allocation (LDA) approach to topic modeling and carry out topic modeling on text data. 
+- Explain Recurrent Neural Networks (RNNs) and use them for classification, generation, and image captioning.  
 
-- build, debug, appropriately evaluate, and refine supervised machine learning models
-- reason to some extent the choice of a machine learning model
-- explain different feature selection methods and carry out feature selection
-- broadly describe and carry out feature engineering
-- explain and carry out L1- and L2-regularization
+All videos are available [here](https://drive.google.com/drive/folders/1nMzTI-dNgkuitmqlHcndZ88zHeQhKel3).
