@@ -5,7 +5,7 @@ type: "Master of Data Science"
 permalink: /teaching/DSCI-573-teaching-1
 venue: "University of British Columbia"
 date: 20-11-15
-link: https://github.com/UBC-MDS/DSCI_571_sup-learn-1
+link: https://github.com/UBC-MDS/DSCI_573_feat-model-select
 location: "Vancouver, Canada"
 ---
 
