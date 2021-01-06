@@ -2,7 +2,7 @@
 title: "DSCI 573: Feature and Model Selection"
 collection: teaching
 type: "Master of Data Science"
-permalink: /teaching/DSCI-573-teaching-1
+permalink: /teaching/DSCI-573-teaching-2
 venue: "University of British Columbia"
 date: 20-11-15
 link: https://github.com/UBC-MDS/DSCI_573_feat-model-select

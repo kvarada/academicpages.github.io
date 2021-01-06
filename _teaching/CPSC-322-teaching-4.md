@@ -2,7 +2,7 @@
 title: "CPSC 322: Introduction to Artificial Intelligence"
 collection: teaching
 type: "Computer Science"
-permalink: /teaching/2019-fall-teaching-3
+permalink: /teaching/CPSC-322-teaching-4
 venue: "University of British Columbia"
 date: 19-09-01
 link: https://github.com/kvarada/CPSC-322_students
