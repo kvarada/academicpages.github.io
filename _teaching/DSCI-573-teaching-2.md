@@ -9,8 +9,6 @@ link: https://github.com/UBC-MDS/DSCI_571_sup-learn-1
 location: "Vancouver, Canada"
 ---
 
-## [DSCI 571: Supervised Learning I](https://github.com/UBC-MDS/DSCI_573_feat-model-select)
-
 This course is about evaluating and selecting features and models. It covers the following topics: evaluation metrics, feature engineering, feature selection, the role of regularization, loss functions, and feature importances.
 
 ### Course Learning Outcomes    
