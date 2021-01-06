@@ -4,7 +4,7 @@ collection: teaching
 type: "Master of Data Science"
 permalink: /teaching/DSCI-575-teaching-3
 venue: "University of British Columbia"
-date: 20-11-10
+date: 20-03-15
 link: https://github.com/UBC-MDS/DSCI_575_adv-mach-learn
 location: "Vancouver, Canada"
 ---
@@ -12,7 +12,6 @@ location: "Vancouver, Canada"
 # [DSCI 575: Advanced Machine Learning in the Context of NLP](https://github.com/UBC-MDS/DSCI_575_adv-mach-learn)
 
 Advanced machine learning methods in the context of natural language processing (NLP) applications. Word embeddings, Markov chains, hidden Markov models, topic modeling, recurrent neural networks.
-
 
 ## Course Learning Outcomes    
 
