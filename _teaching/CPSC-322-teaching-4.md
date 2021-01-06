@@ -5,6 +5,7 @@ type: "Computer Science"
 permalink: /teaching/2019-fall-teaching-3
 venue: "University of British Columbia"
 date: 19-09-01
+link: https://github.com/kvarada/CPSC-322_students
 location: "Vancouver, Canada"
 ---
 

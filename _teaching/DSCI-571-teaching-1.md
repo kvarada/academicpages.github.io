@@ -20,4 +20,4 @@ By the end of the course, students are expected to be able to:
 - describe at a high level how common machine learning algorithms work, including decision trees, K-nearest neighbours, and naive Bayes;
 - use Python and the `scikit-learn` package to responsibly develop end-to-end supervised machine learning pipelines on real-- world datasets and to interpret your results carefully.
  
-Also check out our [Introduction to Machine Learning](https://ml-learn.mds.ubc.ca/) developed for the Key Capabilities for Data Science program. 
+Also check out our [Introduction to Machine Learning](https://ml-learn.mds.ubc.ca/) course developed for [the Key Capabilities for Data Science program](https://extendedlearning.ubc.ca/programs/key-capabilities-data-science). 
